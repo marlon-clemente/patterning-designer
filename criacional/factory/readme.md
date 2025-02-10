@@ -2,7 +2,7 @@
 
 ```mermaid
 ---
-title: Diagrama do exemple_1.go
+title: Diagrama do example_1.go
 ---
 classDiagram
     note "NovoVeiculo(tipo string) Veiculo"
